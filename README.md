@@ -10,8 +10,6 @@ Automação Residencial Inteligente com .NET MAUI, MQTT e IA local (ML.NET)
 - Pipeline de build automático com GitHub Actions
 - Pronto para gerar instalador (.exe ou .msix)
 
-## 📷 Captura de Tela (simulada)
-![App Example](./Assets/app_preview.png)
 
 ## ⚙️ Tecnologias Utilizadas
 - .NET MAUI (.NET 8)
