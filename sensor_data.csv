@@ -1,0 +1,7 @@
+﻿Temperature,Humidity,MotionDetected,HourOfDay,Label
+22.5,60,true,8,true
+23.0,58,false,9,false
+24.0,55,true,12,true
+21.0,65,false,18,false
+20.0,70,true,19,true
+19.0,75,false,23,false
